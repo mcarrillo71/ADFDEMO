@@ -145,9 +145,12 @@
 						"referenceName": "exception",
 						"type": "DatasetReference"
 					},
-					"fieldList": [],
+					"fieldList": [
+						"lastModified"
+					],
 					"storeSettings": {
 						"type": "AzureBlobStorageReadSettings",
+						"recursive": true,
 						"enablePartitionDiscovery": false
 					}
 				}
