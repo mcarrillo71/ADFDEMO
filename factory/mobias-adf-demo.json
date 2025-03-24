@@ -1,0 +1,9 @@
+{
+	"name": "mobias-adf-demo",
+	"location": "eastus2",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "24a78646-226e-4403-8d3b-450d22ed00bd",
+		"tenantId": "91bf5779-90ab-48a5-99a2-ca7a0f080063"
+	}
+}
